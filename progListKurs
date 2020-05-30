@@ -1,8 +1,9 @@
 # Progs, Frameworks, Plugins etc.
 
-* <a href="#homebrew">Homebrew</a>
+* [Homebrew](Homebrew)
 * <a href="#zsh">Ohmyzsh</a>
 * <a href="#git">Git & GitHub</a>
+* <a href="#markdown">Markdown</a>
 * <a href="#sourcetree">SourceTree</a>
 * <a href="#postman">Postman</a>
 * <a href="#java">Java</a>
@@ -16,6 +17,17 @@
 * <a href="#node">Node</a>
 
 
+
+
+
+
+
+
+
+
+
+
+
 <h3 id="homebrew">Homebrew</h3>
 https://docs.brew.sh/Installation
 
@@ -23,8 +35,11 @@ https://docs.brew.sh/Installation
 https://github.com/ohmyzsh/ohmyzsh
 
 <h3 id="git">Git & GitHub</h3>
-https://github.com
-https://www.freecodecamp.org/news/the-beginners-guide-to-git-github/
++ https://github.com
++ https://www.freecodecamp.org/news/the-beginners-guide-to-git-github/
+
+<h3 id="markdown">Markdown</h3>
+https://www.markdownguide.org/basic-syntax/
 
 <h3 id="sourcetree">SourceTree</h3>
 https://www.sourcetreeapp.com/
