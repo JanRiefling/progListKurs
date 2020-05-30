@@ -1,42 +1,44 @@
 # Progs, Frameworks, Plugins etc.
 
-* [Homebrew](Homebrew)
-* <a href="#zsh">Ohmyzsh</a>
-* <a href="#git">Git & GitHub</a>
-* <a href="#markdown">Markdown</a>
-* <a href="#sourcetree">SourceTree</a>
-* <a href="#postman">Postman</a>
-* <a href="#java">Java</a>
-* <a href="#intelli">IntelliJ</a>
-* <a href="#keyx">KeyPromoter X</a>
-* <a href="#mvn">Maven</a>
-* <a href="#junit">Junit5</a>
-* <a href="#spring">Spring & Spring Initializr</a>
-* <a href="#lombock">Lombock</a>
-* <a href="#mockito">Mockito</a>
-* <a href="#node">Node</a>
+* Homebrew
+* [Ohmyzsh](###Ohmyzsh)
+* [Git & GitHub](###Git-&-GitHub)
+* Markdown
+* SourceTree
+* Postman
+* Java
+* IntelliJ
+* KeyPromoter X
+* Maven
+* Junit5
+* Spring & Spring Initializr
+* Lombock
+* Mockito
+* [Node](###Node)
 
 
-<h3 id="homebrew">Homebrew</h3>
+
+
+###Homebrew
 https://docs.brew.sh/Installation
 
-<h3 id="zsh">Ohmyzsh</h3>
+###Ohmyzsh
 https://github.com/ohmyzsh/ohmyzsh
 
-<h3 id="git">Git & GitHub</h3>
+###Git & GitHub
 + https://github.com
 + https://www.freecodecamp.org/news/the-beginners-guide-to-git-github/
 
-<h3 id="markdown">Markdown</h3>
+###Markdown
 https://www.markdownguide.org/basic-syntax/
 
-<h3 id="sourcetree">SourceTree</h3>
+###SourceTree
 https://www.sourcetreeapp.com/
 
-<h3 id="postman">Postman</h3>
+###Postman
 https://www.postman.com/
 
-<h3 id="java">Java</h3>
+###Java
 ```
 brew cask install java
 
@@ -44,33 +46,31 @@ brew cask install java
 https://docs.oracle.com/en/java/javase/11/docs/api/index.html
 
 
-<h3 id="intelli">IntelliJ</h3>
+###IntelliJ
 https://www.jetbrains.com/de-de/idea/
 
-
-<h3 id="keyx">KeyPromoter X</h3>
+###KeyPromoter X
  Plugin IntelliJ Shortcuts
  
- 
-<h3 id="mvn">Maven</h3>
+###Maven
 https://maven.apache.org/
 
 
-<h3 id="junit">Junit5</h3>
+###Junit5
 https://junit.org/junit5/docs/current/user-guide/
 
 
-<h3 id="spring">Spring & Spring Initializr</h3>
+###Spring & Spring Initializr
 https://spring.io/
 
 
-<h3 id="lombock">Lombock</h3>
+###Lombock
 https://projectlombok.org/
 
 
-<h3 id="mockito">Mockito</h3>
+
+###Mockito
 https://site.mockito.org/
 
-
-<h3 id="node">NodeJS</h3>
+###NodeJS
 https://nodejs.org/en/
