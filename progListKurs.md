@@ -1,6 +1,6 @@
 ## Progs, Frameworks, Plugins etc.
  
- * [Homebrew](Homebrew)
+ * <a href="#homebrew">Homebrew</a>
  * <a href="#zsh">Ohmyzsh</a>
  * <a href="#git">Git & GitHub</a>
  * <a href="#markdown">Markdown</a>
