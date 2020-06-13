@@ -1,6 +1,9 @@
 ## Progs, Frameworks, Plugins etc.
  
+<<<<<<< HEAD
  <h3><a href="#backend">Backend:</a></h3>
+=======
+>>>>>>> f6ab4d165da61e5e9ed372f1bc4a6e1feb9eb736
  * <a href="#homebrew">Homebrew</a>
  * <a href="#zsh">Ohmyzsh</a>
  * <a href="#git">Git & GitHub</a>
@@ -116,6 +119,7 @@
  https://site.mockito.org/
  
  
+<<<<<<< HEAD
  <h4 id="api">Api</h4>
  
  Liste mit Apis
@@ -215,3 +219,7 @@
    
 
   
+=======
+ <h3 id="node">NodeJS</h3>
+ https://nodejs.org/en/
+>>>>>>> f6ab4d165da61e5e9ed372f1bc4a6e1feb9eb736
