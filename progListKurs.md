@@ -55,8 +55,8 @@
  
  <h4 id="git">Git & GitHub</h4>
  Versioncontroll
- + https://github.com
- + https://www.freecodecamp.org/news/the-beginners-guide-to-git-github/
+ - https://github.com
+ - https://www.freecodecamp.org/news/the-beginners-guide-to-git-github/
  
  <h4 id="markdown">Markdown</h4>
  Markdown Language bspw. für Git
@@ -141,6 +141,7 @@
  
  <h4 id="node">NodeJS</h4>
   JavaScript Laufzeitumgebung zur Verwendung ohne Browser
+  
   - https://nodejs.org/en/
   
  <h4 id="emmet">Emmet</h4>
@@ -249,14 +250,4 @@ Kostenlose Seite, um kleine Anwendungen zu deployen
 
   
  
-    
-   
-   
-   
-   
-
   
-=======
- <h3 id="node">NodeJS</h3>
- https://nodejs.org/en/
->>>>>>> f6ab4d165da61e5e9ed372f1bc4a6e1feb9eb736
